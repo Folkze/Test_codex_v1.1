@@ -1,0 +1,4 @@
+data/working.json
+__pycache__/
+*.log
+site/
