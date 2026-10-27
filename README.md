@@ -33,6 +33,8 @@ python server.py --port 3000
 
 ## ฟังก์ชัน
 
+- คำอธิบายเอกสาร (`guide.html`): สรุปภาษาไทยจาก LEC – Critical Sensor Critiria & Definition จำนวน 2 หน้า ครอบคลุม Critical Sensor, Validation, Calibration, master plans และการสื่อสาร พร้อมลิงก์เปิด/ดาวน์โหลด PDF ต้นฉบับ และพิมพ์คำอธิบาย
+
 - Overview: KPI, กราฟแผน/ผลจริงรายเดือน, ความคืบหน้าทั้งปี และสรุปแยก Workshop
 - เลือกขอบเขต **เครื่องมือทั้งหมด** (387 รายการ) หรือ **Critical instruments** (111 รายการ) รวมถึง workshop และเดือนรายงาน
 - Instrument register: ค้นหา TAG/ชื่อ/ประเภท/Workshop และแบ่งหน้า
